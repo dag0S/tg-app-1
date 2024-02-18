@@ -11,7 +11,7 @@ const App = () => {
 
   return (
     <div className="App">
-      work
+      <Headers />
       <button onClick={onToggleButton}>toggle</button>
     </div>
   );
